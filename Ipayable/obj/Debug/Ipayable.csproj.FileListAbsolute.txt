@@ -1,0 +1,7 @@
+D:\kushal\Ipayable\Ipayable\obj\Debug\Ipayable.csproj.AssemblyReference.cache
+D:\kushal\Ipayable\Ipayable\obj\Debug\Ipayable.csproj.CoreCompileInputs.cache
+D:\kushal\Ipayable\Ipayable\bin\Debug\Ipayable.exe.config
+D:\kushal\Ipayable\Ipayable\bin\Debug\Ipayable.exe
+D:\kushal\Ipayable\Ipayable\bin\Debug\Ipayable.pdb
+D:\kushal\Ipayable\Ipayable\obj\Debug\Ipayable.exe
+D:\kushal\Ipayable\Ipayable\obj\Debug\Ipayable.pdb
